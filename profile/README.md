@@ -1,5 +1,5 @@
 # [FAIR Lab](https://asl.unist.ac.kr/)
-<img width="7113" height="7113" alt="fairblack" src="https://github.com/user-attachments/assets/50fe2426-6e15-4baf-adfa-a8f29f0b8c58" />
+<img width="7114" height="2571" alt="fair" src="https://github.com/user-attachments/assets/23af1d7c-ea2f-4f81-aad3-8514bdf95324" />
 
 ## Field AI and Robotics Laboratory @ KAIST 
 **Exploring field AI, perception, planning, control, and decision-making to enable robotic autonomy.**
