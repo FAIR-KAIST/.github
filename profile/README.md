@@ -1,4 +1,4 @@
-# [FAIR Lab](https://asl.unist.ac.kr/)
+# [FAIR Lab.](https://asl.unist.ac.kr/)
 <img width="7114" height="2571" alt="fair" src="https://github.com/user-attachments/assets/23af1d7c-ea2f-4f81-aad3-8514bdf95324" />
 
 ## Field AI and Robotics Laboratory @ KAIST 
